@@ -32,4 +32,6 @@ Used three approaches to Extract Keywords/Keyphrases. Below are the details:
   
  Out of alll three Approaches KeyBert Gave good results.
  
- Step 4: Output - Saved the output data frames as Excel File in Output Folder.
+ Step 4: Sentiment - Extracted Sentiment of the reviews using Spacy Text Blob. For code please have a look at Sentiment.ipynb
+ 
+ Step 5: Output - Saved the output data frames as Excel File in Output Folder.
